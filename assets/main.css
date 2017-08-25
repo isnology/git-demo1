@@ -1,0 +1,14 @@
+body {
+  background: black;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+img {
+  width: 100%;
+  height: auto;
+}
